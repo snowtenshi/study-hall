@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://snowtenshi.github.io/study-hall/'
 languageCode = 'pt-br'
 title = 'Study Hall'
 theme='archie'

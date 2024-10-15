@@ -1,7 +1,7 @@
 +++
 title = 'Denuvo'
 date = 2024-10-15T15:37:32-03:00
-draft = true
+draft = false
 tags = ['pesquisa', 'pirataria', 'software']
 +++
 

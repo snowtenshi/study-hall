@@ -1,7 +1,7 @@
 +++
 title = 'Sobre Mim'
 date = 2024-10-15T16:23:58-03:00
-draft = true
+draft = false
 tags = 'pessoal'
 +++
 
