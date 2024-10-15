@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pessoal on Study Hall</title>
-    <link>http://localhost:1313/study-hall/tags/pessoal/</link>
+    <link>https://snowtenshi.github.io/study-hall/tags/pessoal/</link>
     <description>Recent content in Pessoal on Study Hall</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 15 Oct 2024 16:23:58 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/study-hall/tags/pessoal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://snowtenshi.github.io/study-hall/tags/pessoal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sobre Mim</title>
-      <link>http://localhost:1313/study-hall/about/sobre-mim/</link>
+      <link>https://snowtenshi.github.io/study-hall/about/sobre-mim/</link>
       <pubDate>Tue, 15 Oct 2024 16:23:58 -0300</pubDate>
-      <guid>http://localhost:1313/study-hall/about/sobre-mim/</guid>
+      <guid>https://snowtenshi.github.io/study-hall/about/sobre-mim/</guid>
       <description>&lt;p&gt;Me chamo Gabriela, tenho 26 anos, sou estudante e estou em busca do meu primeiro emprego na área de desenvolvimento. Nos momentos livres eu gosto de ler livros dos mais variados gêneros, seja ficção ou não ficção, gosto de ouvir podcasts sobre saúde e tecnologia e assisto a muitos vídeos no youtube sobre computadores antigos. Também sou otaku, fã de Precure e ando acompanhando o novo anime de Pokémon.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Apresentação</title>
-      <link>http://localhost:1313/study-hall/posts/apresentacao/</link>
+      <link>https://snowtenshi.github.io/study-hall/posts/apresentacao/</link>
       <pubDate>Tue, 15 Oct 2024 15:23:24 -0300</pubDate>
-      <guid>http://localhost:1313/study-hall/posts/apresentacao/</guid>
+      <guid>https://snowtenshi.github.io/study-hall/posts/apresentacao/</guid>
       <description>&lt;h1 id=&#34;primeiro-olá&#34;&gt;Primeiro olá&amp;hellip;&lt;/h1&gt;&#xA;&lt;p&gt;Mundo!&lt;/p&gt;&#xA;&lt;p&gt;Piadas à parte, como primeiro post do blog acredito que devo me apresentar. Me chamo Gabriela, tenho 26 anos e sou uma eterna estudante (é uma piada dupla já que estou cursando minha segunda graduação). Estou cursando uma graduação na área de desenvolvimento de software. Área essa que sempre gostei, sempre tive apego emocional sobre mas que não foi minha primeira opção de graduação quando saí do ensino médio. Tive meus motivos mas agora estou de volta, é o que importa.&lt;/p&gt;</description>
     </item>
   </channel>

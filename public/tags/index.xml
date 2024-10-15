@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Study Hall</title>
-    <link>http://localhost:1313/study-hall/tags/</link>
+    <link>https://snowtenshi.github.io/study-hall/tags/</link>
     <description>Recent content in Tags on Study Hall</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 15 Oct 2024 16:23:58 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/study-hall/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://snowtenshi.github.io/study-hall/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pessoal</title>
-      <link>http://localhost:1313/study-hall/tags/pessoal/</link>
+      <link>https://snowtenshi.github.io/study-hall/tags/pessoal/</link>
       <pubDate>Tue, 15 Oct 2024 16:23:58 -0300</pubDate>
-      <guid>http://localhost:1313/study-hall/tags/pessoal/</guid>
+      <guid>https://snowtenshi.github.io/study-hall/tags/pessoal/</guid>
       <description></description>
     </item>
     <item>
       <title>Pesquisa</title>
-      <link>http://localhost:1313/study-hall/tags/pesquisa/</link>
+      <link>https://snowtenshi.github.io/study-hall/tags/pesquisa/</link>
       <pubDate>Tue, 15 Oct 2024 15:37:32 -0300</pubDate>
-      <guid>http://localhost:1313/study-hall/tags/pesquisa/</guid>
+      <guid>https://snowtenshi.github.io/study-hall/tags/pesquisa/</guid>
       <description></description>
     </item>
     <item>
       <title>Pirataria</title>
-      <link>http://localhost:1313/study-hall/tags/pirataria/</link>
+      <link>https://snowtenshi.github.io/study-hall/tags/pirataria/</link>
       <pubDate>Tue, 15 Oct 2024 15:37:32 -0300</pubDate>
-      <guid>http://localhost:1313/study-hall/tags/pirataria/</guid>
+      <guid>https://snowtenshi.github.io/study-hall/tags/pirataria/</guid>
       <description></description>
     </item>
     <item>
       <title>Software</title>
-      <link>http://localhost:1313/study-hall/tags/software/</link>
+      <link>https://snowtenshi.github.io/study-hall/tags/software/</link>
       <pubDate>Tue, 15 Oct 2024 15:37:32 -0300</pubDate>
-      <guid>http://localhost:1313/study-hall/tags/software/</guid>
+      <guid>https://snowtenshi.github.io/study-hall/tags/software/</guid>
       <description></description>
     </item>
   </channel>

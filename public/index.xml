@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Hall</title>
-    <link>http://localhost:1313/study-hall/</link>
+    <link>https://snowtenshi.github.io/study-hall/</link>
     <description>Recent content on Study Hall</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 15 Oct 2024 16:23:58 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/study-hall/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://snowtenshi.github.io/study-hall/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sobre Mim</title>
-      <link>http://localhost:1313/study-hall/about/sobre-mim/</link>
+      <link>https://snowtenshi.github.io/study-hall/about/sobre-mim/</link>
       <pubDate>Tue, 15 Oct 2024 16:23:58 -0300</pubDate>
-      <guid>http://localhost:1313/study-hall/about/sobre-mim/</guid>
+      <guid>https://snowtenshi.github.io/study-hall/about/sobre-mim/</guid>
       <description>&lt;p&gt;Me chamo Gabriela, tenho 26 anos, sou estudante e estou em busca do meu primeiro emprego na área de desenvolvimento. Nos momentos livres eu gosto de ler livros dos mais variados gêneros, seja ficção ou não ficção, gosto de ouvir podcasts sobre saúde e tecnologia e assisto a muitos vídeos no youtube sobre computadores antigos. Também sou otaku, fã de Precure e ando acompanhando o novo anime de Pokémon.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Denuvo</title>
-      <link>http://localhost:1313/study-hall/posts/denuvo/</link>
+      <link>https://snowtenshi.github.io/study-hall/posts/denuvo/</link>
       <pubDate>Tue, 15 Oct 2024 15:37:32 -0300</pubDate>
-      <guid>http://localhost:1313/study-hall/posts/denuvo/</guid>
+      <guid>https://snowtenshi.github.io/study-hall/posts/denuvo/</guid>
       <description>&lt;p&gt;Apenas uma explicação: esse artigo eu desenvolvi para uma apresentação para uma matéria da faculdade durante o primeiro semestre. Eu e meu grupo conseguimos explorar um tema diferente e decidimos falar um pouco sobre Denuvo. Durante minha pesquisa sobre o tema eu aprendi sobre essa cultura hacker, o que achei muito interessante. No final da apresentação acabamos entrando em debate com o professor sobre essas questões de direitos das empresas, pois tocamos no assunto de pirataria. Enfim, definitivamente é um tema complexo e mais profundo do que eu pude pesquisar e conhecer ao longo de alguns dias de pesquisa mas que acho de extrema importância para começarmos a pensar sobre as empresas que produzem software, como utilizamos esse software, como elas nos impõe maneiras de utilizar esses softwares, etc.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Apresentação</title>
-      <link>http://localhost:1313/study-hall/posts/apresentacao/</link>
+      <link>https://snowtenshi.github.io/study-hall/posts/apresentacao/</link>
       <pubDate>Tue, 15 Oct 2024 15:23:24 -0300</pubDate>
-      <guid>http://localhost:1313/study-hall/posts/apresentacao/</guid>
+      <guid>https://snowtenshi.github.io/study-hall/posts/apresentacao/</guid>
       <description>&lt;h1 id=&#34;primeiro-olá&#34;&gt;Primeiro olá&amp;hellip;&lt;/h1&gt;&#xA;&lt;p&gt;Mundo!&lt;/p&gt;&#xA;&lt;p&gt;Piadas à parte, como primeiro post do blog acredito que devo me apresentar. Me chamo Gabriela, tenho 26 anos e sou uma eterna estudante (é uma piada dupla já que estou cursando minha segunda graduação). Estou cursando uma graduação na área de desenvolvimento de software. Área essa que sempre gostei, sempre tive apego emocional sobre mas que não foi minha primeira opção de graduação quando saí do ensino médio. Tive meus motivos mas agora estou de volta, é o que importa.&lt;/p&gt;</description>
     </item>
   </channel>
