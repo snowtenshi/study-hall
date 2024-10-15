@@ -2,6 +2,7 @@
 title = 'Apresentação'
 date = 2024-10-15T15:23:24-03:00
 draft = true
+tags = 'pessoal'
 +++
 
 # Primeiro olá...

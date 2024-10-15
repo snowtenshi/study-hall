@@ -2,6 +2,7 @@
 title = 'Denuvo'
 date = 2024-10-15T15:37:32-03:00
 draft = true
+tags = ['pesquisa', 'pirataria', 'software']
 +++
 
 Apenas uma explicação: esse artigo eu desenvolvi para uma apresentação para uma matéria da faculdade durante o primeiro semestre. Eu e meu grupo conseguimos explorar um tema diferente e decidimos falar um pouco sobre Denuvo. Durante minha pesquisa sobre o tema eu aprendi sobre essa cultura hacker, o que achei muito interessante. No final da apresentação acabamos entrando em debate com o professor sobre essas questões de direitos das empresas, pois tocamos no assunto de pirataria. Enfim, definitivamente é um tema complexo e mais profundo do que eu pude pesquisar e conhecer ao longo de alguns dias de pesquisa mas que acho de extrema importância para começarmos a pensar sobre as empresas que produzem software, como utilizamos esse software, como elas nos impõe maneiras de utilizar esses softwares, etc. 

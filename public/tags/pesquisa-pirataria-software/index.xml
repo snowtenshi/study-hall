@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pesquisa, Pirataria, Software on Study Hall</title>
+    <link>//localhost:1313/tags/pesquisa-pirataria-software/</link>
+    <description>Recent content in Pesquisa, Pirataria, Software on Study Hall</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 15 Oct 2024 15:37:32 -0300</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/pesquisa-pirataria-software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Denuvo</title>
+      <link>//localhost:1313/posts/denuvo/</link>
+      <pubDate>Tue, 15 Oct 2024 15:37:32 -0300</pubDate>
+      <guid>//localhost:1313/posts/denuvo/</guid>
+      <description>&lt;p&gt;Apenas uma explicação: esse artigo eu desenvolvi para uma apresentação para uma matéria da faculdade durante o primeiro semestre. Eu e meu grupo conseguimos explorar um tema diferente e decidimos falar um pouco sobre Denuvo. Durante minha pesquisa sobre o tema eu aprendi sobre essa cultura hacker, o que achei muito interessante. No final da apresentação acabamos entrando em debate com o professor sobre essas questões de direitos das empresas, pois tocamos no assunto de pirataria. Enfim, definitivamente é um tema complexo e mais profundo do que eu pude pesquisar e conhecer ao longo de alguns dias de pesquisa mas que acho de extrema importância para começarmos a pensar sobre as empresas que produzem software, como utilizamos esse software, como elas nos impõe maneiras de utilizar esses softwares, etc.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
