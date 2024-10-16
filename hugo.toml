@@ -2,6 +2,7 @@ baseURL = 'https://snowtenshi.github.io/study-hall/'
 languageCode = 'pt-br'
 title = 'Study Hall'
 theme='archie'
+copyright='texts made by snowtenshi'
 
 pygmentsstyle = "monokai"
 pygmentscodefences = true
